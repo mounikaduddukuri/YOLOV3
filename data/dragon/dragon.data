@@ -1,0 +1,4 @@
+classes=1
+train=data/dragon/dragon.txt
+valid=data/dragon/dragon.txt
+names=data/dragon/dragon.names
